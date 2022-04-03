@@ -1,0 +1,16 @@
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.exe
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.deps.json
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.runtimeconfig.json
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.runtimeconfig.dev.json
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.dll
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\ref\Encapsulation and Property.dll
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.pdb
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.csproj.AssemblyReference.cache
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.AssemblyInfoInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.AssemblyInfo.cs
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.csproj.CoreCompileInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.dll
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\ref\Encapsulation and Property.dll
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.pdb
+D:\BATU\VS Code Console Programming\Practises\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.genruntimeconfig.cache
